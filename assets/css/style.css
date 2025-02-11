@@ -14,7 +14,7 @@ html {
 body {
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
     font-size: 1.6rem;
-    background-image: url("./assets/images/bg-line.png");
+    background-image: url("../images/bg-line.png");
     background-repeat: repeat-y;
     background-position: center center;
 }
@@ -186,7 +186,7 @@ p {
 /* Banner */
 
 .banner {
-    background-image: url("./assets/images/hero/toasting-glasses.jpg");
+    background-image: url("../images/hero/toasting-glasses.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -547,7 +547,7 @@ a.btn-learnmore:hover {
     width: 100%;
     min-height: 420px;
     aspect-ratio: 21 / 6;
-    background-image: url("./assets/images/footer/selective-focus-multi-color-conf.jpg");
+    background-image: url("../images/footer/selective-focus-multi-color-conf.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
